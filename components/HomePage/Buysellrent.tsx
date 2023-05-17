@@ -13,9 +13,9 @@ import Sell from './BuySell/Sell'
 
 const Buysellrent = () => {
   return (
-    <div className='  absolute flex mx-auto  w-full justify-center items-center '>
+    <div className='  absolute flex mx-auto  w-full justify-center items-center hover:shadow-md '>
         <div className=' flex flex-row justify-evenly items-center w-full '>
-            <div className=' flex justify-center items-center  '>
+            <div className=' flex justify-center items-center   '>
             <Buy/>
 
             </div>
